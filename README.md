@@ -1,3 +1,4 @@
 # hello-world
 This is my Hello World project
-This is my second edit for pull request.
+Hi, my name is Neel.
+This is my GitHub Hello World assignment.
